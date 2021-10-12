@@ -1,0 +1,6 @@
+[submodule "lightdm-mini-greeter"]
+	path = lightdm-mini-greeter
+	url = https://github.com/prikhi/lightdm-mini-greeter.git
+[submodule "nody-greeter"]
+	path = nody-greeter
+	url = https://github.com/JezerM/nody-greeter.git
